@@ -10,8 +10,9 @@
 보안 문제상 일부코드는 제외되어있습니다.
 ## Tech
 * Django
-* MS SQL
+* Maria DB -> MS SQL
 * AzureCloud
+* OCR (Tesseract)
 
 ## Timeline
 2019.07.26     기획서 제출  
